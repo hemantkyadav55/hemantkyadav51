@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on company to help their productivity 
 - 📫 How to reach me ... Comment blow and mail me
 - 😄 Pronouns: ...None
-- ⚡ Fun fact: ...I am interesting coder
+- ⚡ Fun fact: ...I am interesting coder in this field
 
 <!---
 hemantkyadav51/hemantkyadav51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
